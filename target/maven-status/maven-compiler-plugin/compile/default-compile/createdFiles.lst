@@ -1,0 +1,15 @@
+com\mycompany\db\web\ProductServlet.class
+com\mycompany\db\DAO\ProductsDao.class
+com\mycompany\db\model\Customer.class
+com\mycompany\db\web\CustomerServlet.class
+com\mycompany\db\model\Acc_Customer.class
+com\mycompany\db\web\Acc_CustomerServlet.class
+com\mycompany\db\DAO\OrdersDao.class
+com\mycompany\db\model\Identifiable.class
+com\mycompany\db\model\Orders.class
+com\mycompany\db\DAO\Acc_CustomersDao.class
+com\mycompany\db\model\Product.class
+com\mycompany\db\DAO\Dao.class
+com\mycompany\db\DAO\CustomersDao.class
+com\mycompany\db\DAO\AbstractController.class
+com\mycompany\db\web\DbInitListener.class
